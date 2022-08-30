@@ -1,4 +1,4 @@
-package org.example;
+package qingzhixing.core;
 
 public class Main {
     public static void main(String[] args) {
