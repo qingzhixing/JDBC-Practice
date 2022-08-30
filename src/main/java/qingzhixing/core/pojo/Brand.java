@@ -8,6 +8,14 @@ public class Brand {
     private String description;
     //状态 1启用 0禁用
     private Integer status;
+    public Brand(int id, String brandName, String companyName, Integer ordered, String description, Integer status) {
+        this.id = id;
+        this.brandName = brandName;
+        this.companyName = companyName;
+        this.ordered = ordered;
+        this.description = description;
+        this.status = status;
+    }
 
     public int getId() {
         return id;

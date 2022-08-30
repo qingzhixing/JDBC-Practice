@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a562b2b-29aa-44cc-981b-076cbfd29264" name="变更" comment="配置druid">
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/qingzhixing/core/pojo/Brand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/qingzhixing/core/pojo/Brand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/qingzhixing/core/pojo/BrandTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/qingzhixing/core/pojo/BrandTest.java" afterDir="false" />
+    </list>
+    <list id="595bcc86-9439-4186-9e23-eea01da596dd" name="druid" comment="druid">
       <change beforePath="$PROJECT_DIR$/src/main/resources/druid.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/druid.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +49,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
@@ -87,6 +93,29 @@
       <recent name="qingzhixing.core.pojo" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="BrandTest.testSelectAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JDBC-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="qingzhixing.core.pojo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="qingzhixing.core.pojo" />
+      <option name="MAIN_CLASS_NAME" value="qingzhixing.core.pojo.BrandTest" />
+      <option name="METHOD_NAME" value="testSelectAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BrandTest.testSelectAll" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -97,6 +126,7 @@
       <updated>1661878929464</updated>
       <workItem from="1661878930648" duration="2301000" />
       <workItem from="1661881313358" duration="1371000" />
+      <workItem from="1661884544415" duration="1403000" />
     </task>
     <task id="LOCAL-00001" summary="init 配置">
       <created>1661879357600</created>
@@ -119,7 +149,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661883163853</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="配置druid">
+      <created>1661883735052</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661883735052</updated>
+    </task>
+    <task id="LOCAL-00005" summary="配置druid">
+      <created>1661884018960</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661884018960</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
