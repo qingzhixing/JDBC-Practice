@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a562b2b-29aa-44cc-981b-076cbfd29264" name="变更" comment="配置druid">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6add7599-bd2b-44d2-9594-cec80cf9b823.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6add7599-bd2b-44d2-9594-cec80cf9b823/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6add7599-bd2b-44d2-9594-cec80cf9b823/storage_v2/_src_/schema/information_schema.FNRwLQ.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6add7599-bd2b-44d2-9594-cec80cf9b823/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6add7599-bd2b-44d2-9594-cec80cf9b823/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6add7599-bd2b-44d2-9594-cec80cf9b823/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/tb_brand_sql.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/druid.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/druid.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661882205443</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="配置druid">
+      <created>1661883163853</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661883163853</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,7 +151,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init 配置" />
     <MESSAGE value="Add sql and Brand.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add sql and Brand.java" />
+    <MESSAGE value="配置druid" />
+    <option name="LAST_COMMIT_MESSAGE" value="配置druid" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
